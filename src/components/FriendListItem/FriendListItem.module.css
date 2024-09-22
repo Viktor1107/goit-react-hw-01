@@ -1,0 +1,21 @@
+.online {
+  color: green;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  margin-bottom: 8px;
+}
+
+.offline {
+  color: red;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  margin-bottom: 8px;
+}
+.avatar {
+  width: 100%;
+}
+.name {
+  font-weight: bolder;
+}
